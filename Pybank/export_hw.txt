@@ -1,0 +1,7 @@
+Financial Analysis
+------------------
+Total Months: 86
+Total Salaries: 38382578
+Average Change: Never figured out how to solve.
+Max Change: N/A
+Min Change: N/A
