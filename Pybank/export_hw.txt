@@ -2,6 +2,6 @@ Financial Analysis
 ------------------
 Total Months: 86
 Total Salaries: 38382578
-Average Change: Never figured out how to solve.
+Average Change: -2315.1176470588234
 Max Change: N/A
 Min Change: N/A
